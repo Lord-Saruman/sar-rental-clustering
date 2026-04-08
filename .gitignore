@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+verify_results.txt
+verify*.py
+build_phase*.py
+download_*.py
+check_*.py
