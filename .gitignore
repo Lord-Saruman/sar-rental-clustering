@@ -9,3 +9,8 @@ verify*.py
 build_phase*.py
 download_*.py
 check_*.py
+extract_uml.py
+read_pdf.py
+*.docx
+*.pdf
+reference.txt
